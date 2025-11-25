@@ -5,7 +5,7 @@ The official repository for the S.A Circuit — Compassion Constant (Cₐ) and R
 **Author ORCID**  
 https://orcid.org/0009-0009-4937-1025
 
-**Journal Article (PDF)**  
+**Journal Article (OSF)**  
 https://doi.org/10.17605/OSF.IO/WSN6E
 
 **Software Release (Zenodo DOI)**  
