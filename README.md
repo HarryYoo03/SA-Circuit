@@ -198,4 +198,7 @@ if __name__ == "__main__":
     print("\nTime-profile of C_a (first few rows):")
     print(profile.head())
 
+For full experimental datasets and sample CSV structures,  
+please refer to the official OSF Appendix files included in the Doi
+
 Yoo, Harry. (2025). The S.A Circuit — Unified Law of Compassion and Integrative Science.
