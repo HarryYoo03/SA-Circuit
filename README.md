@@ -11,6 +11,13 @@ https://doi.org/10.17605/OSF.IO/WSN6E
 **Software Release (Zenodo DOI)**  
 https://doi.org/10.5281/zenodo.17718241
 
+Researchers referencing this work are encouraged to consult the full appendices (A–O), the empirical CSV datasets, and the simulation-derived graphs included in this Zenodo record. These materials collectively provide the mathematical foundations, stability proofs, system-mapping analyses, and empirical validation outputs required to independently evaluate the Compassion Constant (Cₐ) and the convergence dynamics of the S.A Circuit.
+
+The Python Measurement Toolkit included in the repository reproduces all simulation results presented in the appendices. By loading the raw time-series CSV files (e.g., Appendix H — Empirical Validation SimData v2.4), researchers can directly recompute Cₐ, examine perturbation-response behavior, and test stability across varying α, ε, and threshold conditions.
+These datasets and scripts enable independent teams to replicate, challenge, or extend the original findings using their own experimental data.
+
+Together, the appendices, graphs, and simulation files form a fully transparent validation pipeline consistent with the DeepDeception Framework — ensuring that every component of the S.A Circuit is open to empirical verification, computational testing, and interdisciplinary scrutiny.
+
 ## Equation Validation Guide  
 **The S.A Circuit — Compassion Convergence Equation (Yoo, 2025)**  
 This section provides a reproducible method for validating the Compassion Constant (Cₐ)  
